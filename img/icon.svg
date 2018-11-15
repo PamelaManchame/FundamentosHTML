@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <defs>
+  <marker id="se_marker_end_svg_4" markerHeight="5" markerUnits="strokeWidth" markerWidth="5" orient="auto" refX="50" refY="50" viewBox="0 0 100 100">
+   <circle cx="50" cy="50" fill="#000000" id="svg_2" r="30" stroke="#000000" stroke-width="10"/>
+  </marker>
+  <marker id="se_marker_start_svg_4" markerHeight="5" markerUnits="strokeWidth" markerWidth="5" orient="auto" refX="50" refY="50" viewBox="0 0 100 100">
+   <path d="m50,0l0,100" fill="#000000" id="svg_5" stroke="#000000" stroke-width="10"/>
+  </marker>
+  <filter id="svg_7_blur">
+   <feGaussianBlur stdDeviation="1.6"/>
+  </filter>
+  <pattern height="100" id="gridpattern" patternUnits="userSpaceOnUse" width="100" x="0" y="0">
+   <image height="100" width="100" x="0" y="0"/>
+  </pattern>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="svg_10">
+   <path d="m85.712974,51.994045l292.043698,0c-32.258255,0 -58.408736,89.200443 -58.408736,199.234736c0,110.034311 26.150482,199.234718 58.408736,199.234718l-292.043698,0l0,0c-32.258255,0 -58.408736,-89.200425 -58.408736,-199.234718c0,-110.034293 26.150482,-199.234736 58.408736,-199.234736z" fill="#ffb5b5" id="svg_53" stroke="#00ffd8" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/>
+   <text fill="#000000" font-family="serif" font-size="92" id="svg_1" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(1.22599 0 0 4.0433 171.468 -230.781)" x="-22.550265" xml:space="preserve" y="139.382741">I</text>
+   <text fill="#000000" font-family="serif" font-size="92" id="svg_3" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(0.913603 -0.1775 0.330083 1.86461 42.0204 -310.021)" x="2.814159" xml:space="preserve" y="275.951448">I</text>
+   <polyline fill="none" id="svg_4" marker-end="url(#se_marker_end_svg_4)" marker-start="url(#se_marker_start_svg_4)" points="204.78823852539062,252.3092803955078 206.487060546875,321.9930114746094 208.18597412109375,391.6768493652344 " stroke="#000000" stroke-width="5"/>
+   <text fill="#000000" font-family="serif" font-size="92" font-style="normal" font-weight="normal" id="svg_6" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(0.545843 -0.425199 0.623134 0.877935 170.307 40.8736)" x="-209.476051" xml:space="preserve" y="179.739485">|</text>
+   <text fill="#000000" filter="url(#svg_7_blur)" font-family="serif" font-size="92" id="svg_7" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(0.92523 0.4802 -0.249063 0.526676 -110.064 -4.01332)" x="375.534641" xml:space="preserve" y="208.971542">|</text>
+   <text fill="#000000" font-family="serif" font-size="92" id="svg_8" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(-1.75226 0.000672694 -0.000642118 -1.8357 430.707 499.883)" x="103.715369" xml:space="preserve" y="92.966347">C</text>
+   <text fill="#000000" font-family="serif" font-size="92" id="svg_9" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(-1.75182 0.0413266 -0.0394482 -1.83524 428.574 360.731)" x="111.36465" xml:space="preserve" y="39.135946">c</text>
+   <path d="m131.508845,202.554889c-0.12517,4.163822 -7.555789,5.368267 -10.654087,8.188888c-11.877169,6.877799 -23.47621,14.866179 -30.898395,25.961165c-7.875673,11.329548 -12.308682,25.325448 -9.476755,38.738096c1.476923,8.31631 10.208119,15.143144 19.612666,14.319363c6.195663,-0.627271 13.36069,-1.756517 17.043168,-6.853126c3.93587,-2.557454 1.928378,-8.805735 -3.294506,-6.568133c-6.667241,2.143208 -14.885377,-2.72094 -14.48685,-9.342457c0.121958,-6.284276 7.223603,-10.558631 13.744341,-9.820871c7.275013,0.230768 14.368137,5.72151 14.073584,12.624785c0.274641,11.143171 -10.526755,19.994597 -21.93593,22.070439c-10.217866,2.642471 -22.004141,1.219257 -30.447158,-4.950182c-6.292521,-4.098164 -11.188424,-10.205823 -12.08972,-17.30449c-2.071317,-9.249539 1.046541,-18.676113 6.280518,-26.563785c6.736899,-10.63318 16.872812,-19.233415 28.558058,-25.302924c10.859804,-5.967343 22.138206,-11.323308 33.786283,-15.923212c0.061589,0.242148 0.123178,0.484295 0.184784,0.726443l0,0zm-78.031384,43.641835c5.478195,2.395482 4.068927,11.593562 -2.366353,11.655444c-4.833055,0.909651 -9.233692,-3.755992 -7.661164,-7.942809c1.018519,-3.928219 6.278819,-5.521649 10.027518,-3.712635zm-0.520605,25.237311c5.478195,2.395501 4.068927,11.593562 -2.366354,11.655462c-4.833055,0.909651 -9.233691,-3.75601 -7.661164,-7.942827c1.043146,-3.941047 6.251762,-5.515045 10.027518,-3.712635z" fill="#000000" id="svg_25" opacity="0.25" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/>
+   <text fill="#000000" font-family="serif" font-size="92" id="svg_56" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(-4.87102 -0.0590512 0.020957 -1.89725 1745.19 223.302)" x="322.172758" xml:space="preserve" y="60.317458">C</text>
+  </g>
+ </g>
+</svg>
